@@ -1,0 +1,29 @@
+<html style="background-color: black">
+  <h1 style="text-align: center; color: #55ff00; font-size: 50px">
+    САЙТ-ВИЗИТКА || Максим С
+  </h1>
+  <p></p>
+  <p></p>
+  <h1 style="color: #4ce300">Я - ####</h1>
+  <p></p>
+  <h1 style="background-color: black; color: #45cf00">Обо мне:</h1>
+  <p></p>
+  <h2 style="color: #40bf00">⠀⠀⠀0. Какие я знаю языки программирования?</h2>
+  <h3 style="color: #3bab03">⠀⠀⠀⠀⠀⠀⠀- C# и Python.</h3>
+  <img srс="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0o5ugI58azMr3SP72tJswfo_dMlIVSjWn_78lqFbiQ&s=10"> <br> Я - программист. Игры не делаю, но C# знаю
+  <p></p>
+  <h2 style="color: #339900">⠀⠀⠀1. Чем я занимаюсь?</h2>
+  <h3 style="color: #2d8700">⠀⠀⠀⠀⠀⠀⠀- Утро -- Школа (9 класс, 8 уроков) -- ДЗ -- Тренировка -- Ночь || Вот и думайте</h3>
+  <h4 style="color: #297801">Больше вам знать не надо...</h4>
+  
+  
+  <h1><a href="https://github.com/Letors1s" style="color: #1e5900">Мой GitHub</a></h1>
+  <h1><a href="https://github.com/Letors1s" style="color: #184700">Ссылка-приглашение в Discord</a></h1>
+  <h1><a href="https://github.com/Letors1s" style="color: #0d2600">Мой Steam</a></h1>
+  
+  <h1 style="text-align: center; color: #050f00; font-size: 75px">
+    ВООООТ, ;)
+  </h1>
+  
+  <h1 style="text-align: center; color: #030a00; font-size: 45px">Ну а если вы видите это то вы круты</h1>
+</html>
